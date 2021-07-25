@@ -51,6 +51,8 @@ Why make a static graphic when D3 lets you interact with your data?
 You're going to include more demographics and more risk factors. Place additional labels in your scatter plot and give them click events so that your users can decide which data to display. Animate the transitions for your circles' locations as well as the range of your axes. Do this for two risk factors for each axis. Or, for an extreme challenge, create three for each axis.
 
 * Hint: Try binding all of the CSV data to your circles. This will let you easily determine their x or y values when you click the labels.
+* ![Screen Shot 2021-07-25 at 11 22 12 AM](https://user-images.githubusercontent.com/79048618/126904365-95065bd4-2cab-4dd7-82a0-2d5d5c50f0b8.png)
+
 
 #### 2. Incorporate d3-tip
 
